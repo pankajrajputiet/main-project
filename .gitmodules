@@ -1,3 +1,6 @@
 [submodule "utils"]
 	path = utils
 	url = https://github.com/pankajrajputiet/utils.git
+[submodule "agri-prop-api-java"]
+	path = agri-prop-api-java
+	url = https://github.com/agroInsights/agri-prop-api-java.git
